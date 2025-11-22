@@ -2,6 +2,16 @@
 
 This Chrome extension monitors API communications for specific URLs and records question content, question time, answer content, and answer time. The extension uses a service worker to monitor specific API endpoints for multiple AI services including DeepSeek and Doubao.
 
+## Quick Start
+```bash
+$ npm install
+$ npm run build
+
+$ clear; cd /d/git/chromai-extension; python server/forward-server.py
+
+$ clear; cd /d/git/chromai-extension; python server/forward-client.py
+```
+
 ## Features
 
 - Monitors HTTP/HTTPS API requests to specific endpoints
