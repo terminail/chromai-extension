@@ -1,4 +1,4 @@
-// config.ts - Shared service configuration for the API Monitor Extension
+// config.ts - Shared service configuration for the Chromai Extension
 
 import { MonitoredServiceConfig } from './types.js';
 

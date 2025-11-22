@@ -1,4 +1,4 @@
-# Chrome Extension API Monitor
+# Chrome Extension Chromai
 
 This Chrome extension monitors API communications for specific URLs and records question content, question time, answer content, and answer time. The extension uses a service worker to monitor specific API endpoints for multiple AI services including DeepSeek and Doubao.
 
@@ -155,7 +155,7 @@ The extension now follows an enhanced modular architecture with improved separat
 5. Content Script forwards messages to Service Worker ([service-worker.ts](service-worker.ts))
 6. Service Worker receives messages from Content Script and delegates to service-specific handlers
 7. Service-specific handlers process requests/responses and extract streaming data
-8. Service Worker stores data in Chrome local storage for popup UI access
+8. Service Worker stores data in memory for popup UI access
 9. Service Worker forwards real-time data to Forwarding Server ([server/forward-server.py](server/forward-server.py)) via HTTP POST
 10. Forwarding Server broadcasts data to all connected WebSocket clients
 11. Forwarding Client ([server/forward-client.py](server/forward-client.py)) receives data and automatically saves to service-specific JSON files in streaming_data/ directory
@@ -165,7 +165,7 @@ The extension now follows an enhanced modular architecture with improved separat
 Components:
 1. **Inject Script** ([inject.ts](inject.ts)): Overrides browser APIs to capture requests/responses in real-time and sends messages to Content Script
 2. **Content Script** ([content-script.ts](content-script.ts)): Relays messages between Inject Script and Service Worker with tab context
-3. **Service Worker** ([service-worker.ts](service-worker.ts)): Processes data, manages storage, and sends to forwarding server
+3. **Service Worker** ([service-worker.ts](service-worker.ts)): Processes data, manages in-memory storage, and sends to forwarding server
 4. **Forwarding Server**: Receives data via HTTP POST and broadcasts to WebSocket clients in real-time
 5. **External Applications**: Connect via WebSocket to receive real-time streaming data
 
@@ -269,7 +269,7 @@ To view the recorded data:
 2. The popup will display all recorded API calls with questions and answers
 3. Use the controls to toggle monitoring or clear records
 
-Data is stored in Chrome's local storage with the key `apiMonitorData`.
+Data is stored in memory within the service worker and is accessible to the popup UI.
 
 ## External API Access
 
@@ -498,9 +498,9 @@ To run the Python forwarding server:
 
 2. Run the Python forwarding server directly with Python:
    ```bash   
-   $ clear; cd /d/git/terminail/chrome-extmonitor; python server/forward-server.py
+   $ clear; cd /d/git/chromai-extension; python server/forward-server.py
 
-   $ clear; cd /d/git/terminail/chrome-extmonitor; python server/forward-client.py
+   $ clear; cd /d/git/chromai-extension; python server/forward-client.py
    ```
 
 The Python forwarding server provides:
@@ -511,10 +511,10 @@ The Python forwarding server provides:
 
 ### Python WebSocket Client Example
 
-A Python client example is included in `server/ws-client-example.py` that demonstrates how to connect to the forwarding server and receive real-time data:
+A Python client example is included in `server/forward-client.py` that demonstrates how to connect to the forwarding server and receive real-time data:
 
 ```bash
-python server/ws-client-example.py
+python server/forward-client.py
 ```
 
 The client will:
@@ -522,38 +522,3 @@ The client will:
 - Receive real-time data broadcasts from the Chrome extension
 - Automatically send PING messages to maintain the connection
 - Log incoming data to the console
-
-## Data Storage
-
-Monitoring data is stored in Chrome's local storage with the key `apiMonitorData`. The data includes:
-- API call records with timestamps
-- Service identification
-- Request/response content (when available)
-- Monitoring state and configuration
-
-### How to Check Local Storage Data
-
-You can view the stored monitoring data using Chrome DevTools:
-
-1. **Using DevTools Application Tab**:
-   - Press F12 or right-click on the page and select "Inspect"
-   - Click on the "Application" tab
-   - In the left sidebar, expand "Storage" and click "Local Storage"
-   - Select the domain to view stored data under the `apiMonitorData` key
-
-2. **Using DevTools Console**:
-   - Press F12 and go to the "Console" tab
-   - Run this command to view the data:
-     ```javascript
-     chrome.storage.local.get('apiMonitorData', function(result) {
-       console.log('API Monitor Data:', result.apiMonitorData);
-     });
-     ```
-   - Or to view just the API records:
-     ```javascript
-     chrome.storage.local.get('apiMonitorData', function(result) {
-       console.log('API Records:', result.apiMonitorData?.apiRecords || []);
-     });
-     ```
-
-The data is stored persistently in Chrome's local storage and will remain available even after closing and reopening the browser.

@@ -1,5 +1,5 @@
 {
-  "name": "api-monitor-extension",
+  "name": "chromai-extension",
   "version": "1.0.0",
   "description": "Chrome extension to monitor API communications and record question/answer content with timestamps",
   "main": "service-worker.ts",
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "chrome-extension",
-    "api-monitor",
+    "chromai",
     "webrequest",
     "deepseek",
     "doubao"

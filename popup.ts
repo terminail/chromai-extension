@@ -1,4 +1,4 @@
-// popup.ts - Popup script for the API Monitor extension
+// popup.ts - Popup script for the Chromai extension
 
 interface ApiCallRecord {
   id: string;

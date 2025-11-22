@@ -1,4 +1,4 @@
-# API Monitor - Agent Instructions
+# Chromai - Agent Instructions
 
 ## Project Architecture Overview
 
@@ -34,7 +34,7 @@ This is a Chrome extension for monitoring API streaming data from AI services. T
 src/
 ├── inject.ts                    # Page context - API interception
 ├── content-script.ts            # Bridge - message passing
-├── service-worker.ts            # Background - storage & processing
+├── service-worker.ts            # Background - in-memory data processing
 ├── request_response_handler/    # Service-specific handlers
 │   ├── doubao.ts               # Doubao service handler
 │   └── deepseek.ts             # DeepSeek service handler
@@ -45,7 +45,7 @@ src/
 ## Architecture Rules
 - **inject.ts**: Pure interception, no Chrome APIs
 - **content-script.ts**: Message bridge, adds tab context
-- **service-worker.ts**: Storage, cross-tab coordination
+- **service-worker.ts**: In-memory data processing, cross-tab coordination
 - **request_response_handler**: Service-specific logic
 
 ## Message Flow

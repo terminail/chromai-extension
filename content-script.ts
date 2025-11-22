@@ -237,7 +237,7 @@ function injectMonitoringScript(): void {
 console.log('🟢 [CONTENT] Initializing');
 injectMonitoringScript();
 
-console.log('API Monitor Content Script loaded');
+console.log('Chromai Content Script loaded');
 console.log('=== CONTENT SCRIPT LOADED ===');
 console.log('=== CONTENT SCRIPT LOADED ===');
 console.log('=== CONTENT SCRIPT LOADED ===');
