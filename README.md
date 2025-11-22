@@ -55,19 +55,19 @@ The extension follows a clear unidirectional data flow architecture with three d
 
 ### Core Component Roles
 
-1. **Inject Script** ([inject.ts](file:///d:/git/terminail/chrome-extmonitor/inject.ts)) - **Interceptor**:
+1. **Inject Script** ([inject.ts](inject.ts)) - **Interceptor**:
    - Runs in the webpage context
    - Intercepts API calls and streaming data at the source
    - Captures request/response data in real-time
    - Sends messages to Content Script using `window.postMessage`
 
-2. **Content Script** ([content-script.ts](file:///d:/git/terminail/chrome-extmonitor/content-script.ts)) - **Bridge**:
+2. **Content Script** ([content-script.ts](content-script.ts)) - **Bridge**:
    - Runs in the page context but has access to Chrome APIs
    - Acts as a communication bridge between the webpage (inject.ts) and the service worker
    - Receives messages from Inject Script via `window.addEventListener('message')`
    - Forwards messages to Service Worker using `chrome.runtime.sendMessage`
 
-3. **Service Worker** ([service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts)) - **Delegator and Forwarder**:
+3. **Service Worker** ([service-worker.ts](service-worker.ts)) - **Delegator and Forwarder**:
    - Runs in the background with Chrome extension privileges
    - Delegates processing to service-specific handlers (deepseek.ts, doubao.ts)
    - Forwards unified messages to the external streaming server
@@ -76,58 +76,52 @@ The extension follows a clear unidirectional data flow architecture with three d
 ```
 graph TB
     subgraph "External Applications"
-        WebSocketClient[WebSocket Client]
+        WebSocketClient["WebSocket Client"]
     end
 
     subgraph "Forwarding Server (Port 3002)"
-        HTTPPost[HTTP POST Endpoint]
-        WebSocketBroadcast[WebSocket Broadcast]
+        HTTPPost["HTTP POST Endpoint"]
+        WebSocketBroadcast["WebSocket Broadcast"]
     end
 
     subgraph "Chrome Extension"
         subgraph "Web Page"
-            InjectScript[Inject Script]
+            InjectScript["Inject Script"]
         end
         
         subgraph "Page Context"
-            ContentScript[Content Script]
+            ContentScript["Content Script"]
         end
         
         subgraph "Background"
-            ServiceWorker[Service Worker]
+            ServiceWorker["Service Worker"]
         end
     end
 
-    WebSocketClient <-- "WebSocket" --> WebSocketBroadcast
-    HTTPPost <-- "Broadcast" --> WebSocketBroadcast
-    InjectScript -- "window.postMessage" --> ContentScript
-    ContentScript -- "chrome.runtime.sendMessage" --> ServiceWorker
-    ServiceWorker -- "HTTP POST" --> HTTPPost
-
-    style InjectScript fill:#e1f5fe
-    style ContentScript fill:#f3e5f5
-    style ServiceWorker fill:#e8f5e8
-    style HTTPPost fill:#fff3e0
-    style WebSocketBroadcast fill:#fff3e0
+    WebSocketClient <--> WebSocketBroadcast
+    HTTPPost <--> WebSocketBroadcast
+    InjectScript --> ContentScript
+    ContentScript --> ServiceWorker
+    ServiceWorker --> HTTPPost
 ```
 
 ### Component Interactions
 
 The Chrome extension components work together in a strict unidirectional flow:
 
-1. **Inject Script** ([inject.ts](file:///d:/git/terminail/chrome-extmonitor/inject.ts)): 
+1. **Inject Script** ([inject.ts](inject.ts)): 
    - Injected directly into web pages
    - Overrides `fetch` and `XMLHttpRequest` to intercept API calls
    - Captures streaming response chunks in real-time
    - Sends messages to Content Script using `window.postMessage`
 
-2. **Content Script** ([content-script.ts](file:///d:/git/terminail/chrome-extmonitor/content-script.ts)):
+2. **Content Script** ([content-script.ts](content-script.ts)):
    - Runs in the context of web pages with extension privileges
    - Receives messages from Inject Script via `window.addEventListener('message')`
    - Adds tab context information to messages
    - Forwards messages to Service Worker using `chrome.runtime.sendMessage`
 
-3. **Service Worker** ([service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts)):
+3. **Service Worker** ([service-worker.ts](service-worker.ts)):
    - Runs in the background with full extension privileges
    - Listens for messages from Content Script via `chrome.runtime.onMessage`
    - Processes API requests/responses using WebRequest API
@@ -138,7 +132,7 @@ The Chrome extension components work together in a strict unidirectional flow:
 
 The extension now follows an enhanced modular architecture with improved separation of concerns:
 
-1. **Service-Specific Handler Modules**: Each service-specific handler module ([request_response_handler/deepseek.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/deepseek.ts), [request_response_handler/doubao.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/doubao.ts)) handles its own SSE chunk processing, including:
+1. **Service-Specific Handler Modules**: Each service-specific handler module ([request_response_handler/deepseek.ts](request_response_handler/deepseek.ts), [request_response_handler/doubao.ts](request_response_handler/doubao.ts)) handles its own SSE chunk processing, including:
    - Service-specific request/response parsing
    - Streaming data chunk processing and content extraction
    - Event filtering logic for that specific service
@@ -155,23 +149,23 @@ The extension now follows an enhanced modular architecture with improved separat
 
 ```
 1. User interacts with AI services (DeepSeek, Doubao) in browser
-2. Inject Script ([inject.ts](file:///d:/git/terminail/chrome-extmonitor/inject.ts)) overrides fetch/XHR and intercepts API requests
+2. Inject Script ([inject.ts](inject.ts)) overrides fetch/XHR and intercepts API requests
 3. Inject Script captures streaming response chunks and generates messages
-4. Content Script ([content-script.ts](file:///d:/git/terminail/chrome-extmonitor/content-script.ts)) receives messages from Inject Script and adds tab context
-5. Content Script forwards messages to Service Worker ([service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts))
+4. Content Script ([content-script.ts](content-script.ts)) receives messages from Inject Script and adds tab context
+5. Content Script forwards messages to Service Worker ([service-worker.ts](service-worker.ts))
 6. Service Worker receives messages from Content Script and delegates to service-specific handlers
 7. Service-specific handlers process requests/responses and extract streaming data
 8. Service Worker stores data in Chrome local storage for popup UI access
-9. Service Worker forwards real-time data to Forwarding Server ([server/forward-server.py](file:///d:/git/terminail/chrome-extmonitor/server/forward-server.py)) via HTTP POST
+9. Service Worker forwards real-time data to Forwarding Server ([server/forward-server.py](server/forward-server.py)) via HTTP POST
 10. Forwarding Server broadcasts data to all connected WebSocket clients
-11. Forwarding Client ([server/forward-client.py](file:///d:/git/terminail/chrome-extmonitor/server/forward-client.py)) receives data and automatically saves to service-specific JSON files in streaming_data/ directory
+11. Forwarding Client ([server/forward-client.py](server/forward-client.py)) receives data and automatically saves to service-specific JSON files in streaming_data/ directory
 12. Service-specific files created: streaming_data/deepseek.json, streaming_data/doubao.json, etc.
 ```
 
 Components:
-1. **Inject Script** ([inject.ts](file:///d:/git/terminail/chrome-extmonitor/inject.ts)): Overrides browser APIs to capture requests/responses in real-time and sends messages to Content Script
-2. **Content Script** ([content-script.ts](file:///d:/git/terminail/chrome-extmonitor/content-script.ts)): Relays messages between Inject Script and Service Worker with tab context
-3. **Service Worker** ([service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts)): Processes data, manages storage, and sends to forwarding server
+1. **Inject Script** ([inject.ts](inject.ts)): Overrides browser APIs to capture requests/responses in real-time and sends messages to Content Script
+2. **Content Script** ([content-script.ts](content-script.ts)): Relays messages between Inject Script and Service Worker with tab context
+3. **Service Worker** ([service-worker.ts](service-worker.ts)): Processes data, manages storage, and sends to forwarding server
 4. **Forwarding Server**: Receives data via HTTP POST and broadcasts to WebSocket clients in real-time
 5. **External Applications**: Connect via WebSocket to receive real-time streaming data
 
@@ -225,29 +219,29 @@ This approach ensures that Q&A pairs are correctly linked regardless of which ta
 
 ## Monitor Implementation
 
-Each handler file in the [request_response_handler/](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/) directory is responsible for handling a specific service:
+Each handler file in the [request_response_handler/](request_response_handler/) directory is responsible for handling a specific service:
 
-1. **DeepSeek Handler** ([request_response_handler/deepseek.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/deepseek.ts)):
+1. **DeepSeek Handler** ([request_response_handler/deepseek.ts](request_response_handler/deepseek.ts)):
    - Monitors `chat.deepseek.com/api/v0/chat/completion` only
    - Tracks question/answer pairs for DeepSeek API
    - Handles streaming responses (SSE) from the API
    - Captures and processes streaming data chunks
    - Correctly extracts content from complex nested JSON structures including Chinese characters and space characters
 
-2. **Doubao Handler** ([request_response_handler/doubao.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/doubao.ts)):
+2. **Doubao Handler** ([request_response_handler/doubao.ts](request_response_handler/doubao.ts)):
    - Monitors Doubao API endpoints
    - Tracks question/answer pairs for Doubao service
    - Handles different response formats from various Doubao endpoints
    - Properly filters SSE events to only send relevant content to the streaming server
 
-3. **Doubao Samantha Handler** ([request_response_handler/doubao_samantha.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/doubao_samantha.ts)):
+3. **Doubao Samantha Handler** ([request_response_handler/doubao_samantha.ts](request_response_handler/doubao_samantha.ts)):
    - Monitors Doubao Samantha API endpoints (`/samantha/chat/completion`)
    - Handles specialized response formats for the Samantha service
    - Implements service-specific parsing logic
 
 ## Service Worker
 
-The [service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts) file serves as the main entry point that:
+The [service-worker.ts](service-worker.ts) file serves as the main entry point that:
 - Imports all handler modules
 - Sets up webRequest listeners
 - Processes API calls and records data
@@ -469,12 +463,12 @@ The extension requires the following permissions:
 
 To add a new monitor for a different service:
 
-1. Create a new file in the [request_response_handler/](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/) directory (e.g., [request_response_handler/newservice.ts](file:///d:/git/terminail/chrome-extmonitor/request_response_handler/newservice.ts))
+1. Create a new file in the [request_response_handler/](request_response_handler/) directory (e.g., [request_response_handler/newservice.ts](request_response_handler/newservice.ts))
 2. Implement the monitoring logic for the specific service
 3. Export the necessary functions and configuration
-4. Import and register the monitor in [service-worker.ts](file:///d:/git/terminail/chrome-extmonitor/service-worker.ts)
-5. Add the service configuration to [config.ts](file:///d:/git/terminail/chrome-extmonitor/config.ts)
-6. Create corresponding test files in the [__tests__/](file:///d:/git/terminail/chrome-extmonitor/__tests__) directory
+4. Import and register the monitor in [service-worker.ts](service-worker.ts)
+5. Add the service configuration to [config.ts](config.ts)
+6. Create corresponding test files in the [__tests__/](__tests__) directory
 
 ## Building
 
