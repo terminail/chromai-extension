@@ -1,0 +1,6874 @@
+[
+  {
+    "type": "STREAMING_STARTED",
+    "service": "deepseek",
+    "url": "/api/v0/chat/completion",
+    "injectId": "inject-990450-1763807959641",
+    "question": "appium要钱的？",
+    "timestamp": "2025-11-22T10:39:19.643Z",
+    "source": "xhr"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:21.275Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:21.463Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:21.517Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:21.570Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:21.626Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:21.682Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "和",
+    "timestamp": "2025-11-22T10:39:21.683Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "开源",
+    "timestamp": "2025-11-22T10:39:21.734Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "！",
+    "timestamp": "2025-11-22T10:39:21.734Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:21.810Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:21.865Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "这是一个",
+    "timestamp": "2025-11-22T10:39:21.865Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "常见的",
+    "timestamp": "2025-11-22T10:39:21.865Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "误解",
+    "timestamp": "2025-11-22T10:39:21.917Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:39:21.917Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "让我",
+    "timestamp": "2025-11-22T10:39:21.972Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "为您",
+    "timestamp": "2025-11-22T10:39:22.025Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "澄清",
+    "timestamp": "2025-11-22T10:39:22.082Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n\n",
+    "timestamp": "2025-11-22T10:39:22.136Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:22.268Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " App",
+    "timestamp": "2025-11-22T10:39:22.326Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:22.326Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:22.327Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "是",
+    "timestamp": "2025-11-22T10:39:22.327Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:22.375Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "100",
+    "timestamp": "2025-11-22T10:39:22.375Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "%",
+    "timestamp": "2025-11-22T10:39:22.376Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:22.436Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:22.436Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的开",
+    "timestamp": "2025-11-22T10:39:22.490Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "源",
+    "timestamp": "2025-11-22T10:39:22.490Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "项目",
+    "timestamp": "2025-11-22T10:39:22.566Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:22.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:22.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:22.618Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "许可证",
+    "timestamp": "2025-11-22T10:39:22.674Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "信息",
+    "timestamp": "2025-11-22T10:39:22.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:22.779Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:22.856Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:22.904Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "许可证",
+    "timestamp": "2025-11-22T10:39:22.905Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:22.905Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:22.960Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Apache",
+    "timestamp": "2025-11-22T10:39:22.960Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " License",
+    "timestamp": "2025-11-22T10:39:23.014Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:23.067Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:23.067Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:23.127Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:23.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:23.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:23.242Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:23.242Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "费用",
+    "timestamp": "2025-11-22T10:39:23.292Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:23.346Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:23.346Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:23.400Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:23.400Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:23.453Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:23.453Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:23.509Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业模式",
+    "timestamp": "2025-11-22T10:39:23.509Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:23.664Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:23.718Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "社区",
+    "timestamp": "2025-11-22T10:39:23.719Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "驱动",
+    "timestamp": "2025-11-22T10:39:23.719Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:39:23.719Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "无",
+    "timestamp": "2025-11-22T10:39:23.772Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "付费",
+    "timestamp": "2025-11-22T10:39:23.773Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "版本",
+    "timestamp": "2025-11-22T10:39:23.826Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:23.827Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:23.880Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:23.934Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可能",
+    "timestamp": "2025-11-22T10:39:23.994Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "产生",
+    "timestamp": "2025-11-22T10:39:24.047Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "混淆",
+    "timestamp": "2025-11-22T10:39:24.048Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的原因",
+    "timestamp": "2025-11-22T10:39:24.098Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:24.099Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:24.214Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "####",
+    "timestamp": "2025-11-22T10:39:24.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:24.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "1",
+    "timestamp": "2025-11-22T10:39:24.268Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:24.268Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:24.268Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:24.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "云",
+    "timestamp": "2025-11-22T10:39:24.381Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务",
+    "timestamp": "2025-11-22T10:39:24.431Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " vs",
+    "timestamp": "2025-11-22T10:39:24.431Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " App",
+    "timestamp": "2025-11-22T10:39:24.488Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:24.540Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本身",
+    "timestamp": "2025-11-22T10:39:24.540Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**\n",
+    "timestamp": "2025-11-22T10:39:24.597Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:24.597Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:24.652Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:24.917Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:24.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:24.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "这些",
+    "timestamp": "2025-11-22T10:39:24.972Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "是",
+    "timestamp": "2025-11-22T10:39:24.972Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费的",
+    "timestamp": "2025-11-22T10:39:25.022Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n",
+    "timestamp": "2025-11-22T10:39:25.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "from",
+    "timestamp": "2025-11-22T10:39:25.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " app",
+    "timestamp": "2025-11-22T10:39:25.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:25.080Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " import",
+    "timestamp": "2025-11-22T10:39:25.132Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " web",
+    "timestamp": "2025-11-22T10:39:25.132Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:25.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:25.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:25.243Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:25.243Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " web",
+    "timestamp": "2025-11-22T10:39:25.318Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:25.319Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".Rem",
+    "timestamp": "2025-11-22T10:39:25.373Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ote",
+    "timestamp": "2025-11-22T10:39:25.373Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "(\n",
+    "timestamp": "2025-11-22T10:39:25.435Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:25.436Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:25.481Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "http",
+    "timestamp": "2025-11-22T10:39:25.482Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "://",
+    "timestamp": "2025-11-22T10:39:25.539Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "localhost",
+    "timestamp": "2025-11-22T10:39:25.595Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:25.596Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:25.653Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:25.702Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "/w",
+    "timestamp": "2025-11-22T10:39:25.703Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "d",
+    "timestamp": "2025-11-22T10:39:25.920Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "/h",
+    "timestamp": "2025-11-22T10:39:25.920Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ub",
+    "timestamp": "2025-11-22T10:39:25.921Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',",
+    "timestamp": "2025-11-22T10:39:25.921Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:25.922Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " #",
+    "timestamp": "2025-11-22T10:39:25.975Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:25.975Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本地",
+    "timestamp": "2025-11-22T10:39:25.976Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:25.976Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:26.035Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:26.523Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " desired",
+    "timestamp": "2025-11-22T10:39:26.643Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_c",
+    "timestamp": "2025-11-22T10:39:26.717Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "aps",
+    "timestamp": "2025-11-22T10:39:26.822Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:26.874Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ")\n\n",
+    "timestamp": "2025-11-22T10:39:26.933Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:26.934Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:26.934Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "这些",
+    "timestamp": "2025-11-22T10:39:26.934Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可能",
+    "timestamp": "2025-11-22T10:39:26.935Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:26.985Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:26.985Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "但不是",
+    "timestamp": "2025-11-22T10:39:26.986Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:26.986Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:26.986Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）",
+    "timestamp": "2025-11-22T10:39:27.039Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n",
+    "timestamp": "2025-11-22T10:39:27.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:27.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:27.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Browser",
+    "timestamp": "2025-11-22T10:39:27.041Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Stack",
+    "timestamp": "2025-11-22T10:39:27.095Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " App",
+    "timestamp": "2025-11-22T10:39:27.096Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Autom",
+    "timestamp": "2025-11-22T10:39:27.153Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ate",
+    "timestamp": "2025-11-22T10:39:27.153Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:27.154Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:27.154Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:27.154Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Sauce",
+    "timestamp": "2025-11-22T10:39:27.207Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Labs",
+    "timestamp": "2025-11-22T10:39:27.207Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:27.207Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:27.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:27.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " AWS",
+    "timestamp": "2025-11-22T10:39:27.260Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Device",
+    "timestamp": "2025-11-22T10:39:27.261Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Farm",
+    "timestamp": "2025-11-22T10:39:27.261Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:27.313Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:27.377Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:27.423Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:27.423Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "其他",
+    "timestamp": "2025-11-22T10:39:27.478Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "云",
+    "timestamp": "2025-11-22T10:39:27.478Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "测试",
+    "timestamp": "2025-11-22T10:39:27.532Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "平台",
+    "timestamp": "2025-11-22T10:39:27.585Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:27.585Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:27.644Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "####",
+    "timestamp": "2025-11-22T10:39:27.645Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:27.695Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:27.696Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:27.793Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:27.847Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:27.848Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "支持",
+    "timestamp": "2025-11-22T10:39:27.848Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " vs",
+    "timestamp": "2025-11-22T10:39:27.899Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:27.900Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "工具",
+    "timestamp": "2025-11-22T10:39:27.966Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本身",
+    "timestamp": "2025-11-22T10:39:28.022Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**\n",
+    "timestamp": "2025-11-22T10:39:28.069Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:28.069Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " App",
+    "timestamp": "2025-11-22T10:39:28.126Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:28.178Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "工具",
+    "timestamp": "2025-11-22T10:39:28.179Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:28.233Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:28.286Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:28.287Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:28.341Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:28.341Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:28.402Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "技术支持",
+    "timestamp": "2025-11-22T10:39:28.452Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "、",
+    "timestamp": "2025-11-22T10:39:28.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "培训",
+    "timestamp": "2025-11-22T10:39:28.567Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "、",
+    "timestamp": "2025-11-22T10:39:28.618Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "定制",
+    "timestamp": "2025-11-22T10:39:28.619Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "开发",
+    "timestamp": "2025-11-22T10:39:28.681Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:28.681Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可能",
+    "timestamp": "2025-11-22T10:39:28.731Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:28.732Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:28.871Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:28.928Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:28.928Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:28.928Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:28.929Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费的",
+    "timestamp": "2025-11-22T10:39:28.981Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "部署",
+    "timestamp": "2025-11-22T10:39:28.982Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:29.037Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:29.092Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:29.221Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:29.274Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:29.275Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "1",
+    "timestamp": "2025-11-22T10:39:29.275Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:29.275Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本地",
+    "timestamp": "2025-11-22T10:39:29.328Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "部署",
+    "timestamp": "2025-11-22T10:39:29.328Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:29.383Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "零",
+    "timestamp": "2025-11-22T10:39:29.384Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "成本",
+    "timestamp": "2025-11-22T10:39:29.458Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:29.507Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:29.507Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:29.508Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:29.562Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:29.562Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:29.616Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:29.674Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "使用",
+    "timestamp": "2025-11-22T10:39:29.725Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:29.725Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:29.778Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的",
+    "timestamp": "2025-11-22T10:39:29.779Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完整",
+    "timestamp": "2025-11-22T10:39:29.833Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "示例",
+    "timestamp": "2025-11-22T10:39:29.833Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:29.887Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "from",
+    "timestamp": "2025-11-22T10:39:29.887Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " app",
+    "timestamp": "2025-11-22T10:39:29.947Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:29.947Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " import",
+    "timestamp": "2025-11-22T10:39:29.998Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " web",
+    "timestamp": "2025-11-22T10:39:29.998Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:30.055Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:30.107Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "des",
+    "timestamp": "2025-11-22T10:39:30.216Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ired",
+    "timestamp": "2025-11-22T10:39:30.266Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_c",
+    "timestamp": "2025-11-22T10:39:30.266Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "aps",
+    "timestamp": "2025-11-22T10:39:30.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:30.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " {\n",
+    "timestamp": "2025-11-22T10:39:30.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:30.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:30.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "platform",
+    "timestamp": "2025-11-22T10:39:30.378Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:30.426Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:30.480Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:30.480Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Android",
+    "timestamp": "2025-11-22T10:39:30.534Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',\n",
+    "timestamp": "2025-11-22T10:39:30.535Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:30.588Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:30.588Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "device",
+    "timestamp": "2025-11-22T10:39:30.644Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:30.700Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:30.755Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:30.756Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "your",
+    "timestamp": "2025-11-22T10:39:30.811Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_device",
+    "timestamp": "2025-11-22T10:39:30.867Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',\n",
+    "timestamp": "2025-11-22T10:39:30.867Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:30.917Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:30.917Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "app",
+    "timestamp": "2025-11-22T10:39:30.974Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:30.974Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '/",
+    "timestamp": "2025-11-22T10:39:31.027Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "path",
+    "timestamp": "2025-11-22T10:39:31.027Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "/to",
+    "timestamp": "2025-11-22T10:39:31.086Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "/app",
+    "timestamp": "2025-11-22T10:39:31.137Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".ap",
+    "timestamp": "2025-11-22T10:39:31.138Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "k",
+    "timestamp": "2025-11-22T10:39:31.193Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',\n",
+    "timestamp": "2025-11-22T10:39:31.245Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:31.245Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:31.367Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "autom",
+    "timestamp": "2025-11-22T10:39:31.367Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ation",
+    "timestamp": "2025-11-22T10:39:31.368Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:31.369Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:31.416Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:31.416Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Ui",
+    "timestamp": "2025-11-22T10:39:31.470Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Autom",
+    "timestamp": "2025-11-22T10:39:31.470Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ator",
+    "timestamp": "2025-11-22T10:39:31.563Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:31.609Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "'",
+    "timestamp": "2025-11-22T10:39:31.665Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:31.665Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " #",
+    "timestamp": "2025-11-22T10:39:31.719Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:31.779Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:31.780Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:31.826Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "}\n\n",
+    "timestamp": "2025-11-22T10:39:31.827Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:31.881Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:32.156Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "连接到",
+    "timestamp": "2025-11-22T10:39:32.211Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本地",
+    "timestamp": "2025-11-22T10:39:32.211Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:32.212Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:32.212Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务器",
+    "timestamp": "2025-11-22T10:39:32.266Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:32.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:32.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:32.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:32.267Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:32.321Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " web",
+    "timestamp": "2025-11-22T10:39:32.321Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:32.321Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".Rem",
+    "timestamp": "2025-11-22T10:39:32.322Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ote",
+    "timestamp": "2025-11-22T10:39:32.375Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "('",
+    "timestamp": "2025-11-22T10:39:32.376Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "http",
+    "timestamp": "2025-11-22T10:39:32.429Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "://",
+    "timestamp": "2025-11-22T10:39:32.430Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "localhost",
+    "timestamp": "2025-11-22T10:39:32.489Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:32.544Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:32.544Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:32.598Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',",
+    "timestamp": "2025-11-22T10:39:32.648Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " desired",
+    "timestamp": "2025-11-22T10:39:32.705Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_c",
+    "timestamp": "2025-11-22T10:39:32.705Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "aps",
+    "timestamp": "2025-11-22T10:39:32.769Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ")\n",
+    "timestamp": "2025-11-22T10:39:32.819Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:32.819Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:32.820Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:32.878Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:32.878Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:32.927Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:32.984Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "自",
+    "timestamp": "2025-11-22T10:39:33.037Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "建",
+    "timestamp": "2025-11-22T10:39:33.108Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务器",
+    "timestamp": "2025-11-22T10:39:33.161Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "集群",
+    "timestamp": "2025-11-22T10:39:33.161Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:33.161Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:33.211Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "y",
+    "timestamp": "2025-11-22T10:39:33.211Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "aml",
+    "timestamp": "2025-11-22T10:39:33.399Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:33.450Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:33.450Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " docker",
+    "timestamp": "2025-11-22T10:39:33.451Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-com",
+    "timestamp": "2025-11-22T10:39:33.451Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "pose",
+    "timestamp": "2025-11-22T10:39:33.451Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".yml",
+    "timestamp": "2025-11-22T10:39:33.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:33.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:33.505Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:33.561Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:33.616Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:33.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "version",
+    "timestamp": "2025-11-22T10:39:33.672Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:33.672Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:33.759Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:33.810Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:33.810Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "8",
+    "timestamp": "2025-11-22T10:39:33.810Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "'\n",
+    "timestamp": "2025-11-22T10:39:33.869Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "services",
+    "timestamp": "2025-11-22T10:39:33.870Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:33.920Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:33.920Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " app",
+    "timestamp": "2025-11-22T10:39:33.973Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:33.973Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-server",
+    "timestamp": "2025-11-22T10:39:34.030Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:34.030Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:34.087Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " image",
+    "timestamp": "2025-11-22T10:39:34.087Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:34.142Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " app",
+    "timestamp": "2025-11-22T10:39:34.203Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:34.250Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "/app",
+    "timestamp": "2025-11-22T10:39:34.251Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:34.307Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:34.361Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "latest",
+    "timestamp": "2025-11-22T10:39:34.362Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:34.362Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " #",
+    "timestamp": "2025-11-22T10:39:34.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:34.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "官方",
+    "timestamp": "2025-11-22T10:39:34.467Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:34.468Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "镜像",
+    "timestamp": "2025-11-22T10:39:34.526Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:34.577Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:34.631Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ports",
+    "timestamp": "2025-11-22T10:39:34.631Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:34.686Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "     ",
+    "timestamp": "2025-11-22T10:39:34.686Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:34.742Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:34.743Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:34.799Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:34.799Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:34.856Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:34.856Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:34.909Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\"\n",
+    "timestamp": "2025-11-22T10:39:34.964Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:35.021Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " environment",
+    "timestamp": "2025-11-22T10:39:35.022Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:35.077Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "     ",
+    "timestamp": "2025-11-22T10:39:35.078Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:35.130Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " REL",
+    "timestamp": "2025-11-22T10:39:35.131Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "AX",
+    "timestamp": "2025-11-22T10:39:35.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ED",
+    "timestamp": "2025-11-22T10:39:35.182Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_SEC",
+    "timestamp": "2025-11-22T10:39:35.244Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "URITY",
+    "timestamp": "2025-11-22T10:39:35.292Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "=true",
+    "timestamp": "2025-11-22T10:39:35.292Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:35.350Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:35.403Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " network",
+    "timestamp": "2025-11-22T10:39:35.403Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_mode",
+    "timestamp": "2025-11-22T10:39:35.813Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:35.869Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " host",
+    "timestamp": "2025-11-22T10:39:35.869Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:35.870Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:35.870Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " automation",
+    "timestamp": "2025-11-22T10:39:35.923Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-client",
+    "timestamp": "2025-11-22T10:39:35.923Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:35.924Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:35.924Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " build",
+    "timestamp": "2025-11-22T10:39:35.978Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:35.978Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " .\n",
+    "timestamp": "2025-11-22T10:39:35.978Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:35.979Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " depends",
+    "timestamp": "2025-11-22T10:39:36.032Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_on",
+    "timestamp": "2025-11-22T10:39:36.032Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:36.032Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "     ",
+    "timestamp": "2025-11-22T10:39:36.033Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:36.086Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " app",
+    "timestamp": "2025-11-22T10:39:36.087Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:36.146Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-server",
+    "timestamp": "2025-11-22T10:39:36.147Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:36.147Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:36.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " environment",
+    "timestamp": "2025-11-22T10:39:36.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:36.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "     ",
+    "timestamp": "2025-11-22T10:39:36.209Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:36.284Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " AP",
+    "timestamp": "2025-11-22T10:39:36.336Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "PI",
+    "timestamp": "2025-11-22T10:39:36.336Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "UM",
+    "timestamp": "2025-11-22T10:39:36.336Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_URL",
+    "timestamp": "2025-11-22T10:39:36.389Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "=http",
+    "timestamp": "2025-11-22T10:39:36.390Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "://",
+    "timestamp": "2025-11-22T10:39:36.447Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "localhost",
+    "timestamp": "2025-11-22T10:39:36.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:36.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:36.559Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:36.610Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:36.610Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:36.667Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:36.667Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:36.720Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:36.720Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:36.794Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "替代",
+    "timestamp": "2025-11-22T10:39:36.846Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:36.846Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "对比",
+    "timestamp": "2025-11-22T10:39:36.900Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:36.900Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:36.901Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:37.218Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "工具",
+    "timestamp": "2025-11-22T10:39:37.337Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:37.392Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:37.392Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "费用",
+    "timestamp": "2025-11-22T10:39:37.392Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:37.393Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:37.446Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "学习",
+    "timestamp": "2025-11-22T10:39:37.446Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "曲线",
+    "timestamp": "2025-11-22T10:39:37.447Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:37.447Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:37.501Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "功能",
+    "timestamp": "2025-11-22T10:39:37.501Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完整性",
+    "timestamp": "2025-11-22T10:39:37.502Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n",
+    "timestamp": "2025-11-22T10:39:37.557Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:37.557Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "------",
+    "timestamp": "2025-11-22T10:39:37.558Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:37.558Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "------",
+    "timestamp": "2025-11-22T10:39:37.558Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:37.558Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "----------",
+    "timestamp": "2025-11-22T10:39:37.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:37.618Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "------------",
+    "timestamp": "2025-11-22T10:39:37.670Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|\n",
+    "timestamp": "2025-11-22T10:39:37.670Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:37.724Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:37.724Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:37.779Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:37.833Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:37.834Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:37.891Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " 🆓",
+    "timestamp": "2025-11-22T10:39:38.053Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:38.053Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:38.054Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:38.102Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:38.102Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:38.102Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "中等",
+    "timestamp": "2025-11-22T10:39:38.156Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:38.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ⭐",
+    "timestamp": "2025-11-22T10:39:38.261Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:38.314Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:38.314Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n",
+    "timestamp": "2025-11-22T10:39:38.369Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:38.369Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:38.425Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "S",
+    "timestamp": "2025-11-22T10:39:38.425Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "elenium",
+    "timestamp": "2025-11-22T10:39:38.504Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:38.555Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:38.611Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " 🆓",
+    "timestamp": "2025-11-22T10:39:38.611Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:38.668Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:38.725Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:38.775Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:38.776Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:38.829Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "简单",
+    "timestamp": "2025-11-22T10:39:38.830Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:38.883Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ⭐",
+    "timestamp": "2025-11-22T10:39:38.941Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:38.941Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:38.994Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n",
+    "timestamp": "2025-11-22T10:39:38.994Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:39.049Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:39.109Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Ui",
+    "timestamp": "2025-11-22T10:39:39.168Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Autom",
+    "timestamp": "2025-11-22T10:39:39.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ator",
+    "timestamp": "2025-11-22T10:39:39.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:39.225Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:39.322Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:39.377Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " 🆓",
+    "timestamp": "2025-11-22T10:39:39.377Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:39.378Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:39.484Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:39.529Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:39.529Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:39.585Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "中等",
+    "timestamp": "2025-11-22T10:39:39.586Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:39.586Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ⭐",
+    "timestamp": "2025-11-22T10:39:39.644Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:39.715Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐",
+    "timestamp": "2025-11-22T10:39:39.766Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n",
+    "timestamp": "2025-11-22T10:39:39.821Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:39.821Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:39.880Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Esp",
+    "timestamp": "2025-11-22T10:39:39.881Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "resso",
+    "timestamp": "2025-11-22T10:39:39.932Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:39.932Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:39.991Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " 🆓",
+    "timestamp": "2025-11-22T10:39:40.047Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:40.104Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:40.105Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:40.172Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:40.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:40.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "较",
+    "timestamp": "2025-11-22T10:39:40.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "陡",
+    "timestamp": "2025-11-22T10:39:40.277Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:40.277Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ⭐",
+    "timestamp": "2025-11-22T10:39:40.329Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:40.384Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐",
+    "timestamp": "2025-11-22T10:39:40.385Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n",
+    "timestamp": "2025-11-22T10:39:40.450Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "|",
+    "timestamp": "2025-11-22T10:39:40.451Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:40.524Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Air",
+    "timestamp": "2025-11-22T10:39:40.575Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Test",
+    "timestamp": "2025-11-22T10:39:40.630Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:40.923Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:40.977Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " 🆓",
+    "timestamp": "2025-11-22T10:39:40.977Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:40.978Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:40.978Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:41.035Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:41.035Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:41.036Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "简单",
+    "timestamp": "2025-11-22T10:39:41.036Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |",
+    "timestamp": "2025-11-22T10:39:41.091Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ⭐",
+    "timestamp": "2025-11-22T10:39:41.091Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "⭐⭐",
+    "timestamp": "2025-11-22T10:39:41.091Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " |\n\n",
+    "timestamp": "2025-11-22T10:39:41.092Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:41.148Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:41.197Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:41.198Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可能",
+    "timestamp": "2025-11-22T10:39:41.253Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "产生",
+    "timestamp": "2025-11-22T10:39:41.303Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "费用的",
+    "timestamp": "2025-11-22T10:39:41.356Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "场景",
+    "timestamp": "2025-11-22T10:39:41.356Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:41.411Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:41.411Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:41.468Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "1",
+    "timestamp": "2025-11-22T10:39:41.518Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:41.572Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:41.572Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "云",
+    "timestamp": "2025-11-22T10:39:41.629Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "设备",
+    "timestamp": "2025-11-22T10:39:41.685Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "农场",
+    "timestamp": "2025-11-22T10:39:41.736Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:41.790Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:41.790Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可选",
+    "timestamp": "2025-11-22T10:39:41.848Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:41.898Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:41.953Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:42.008Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:42.009Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:42.061Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:42.061Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "这些",
+    "timestamp": "2025-11-22T10:39:42.118Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务",
+    "timestamp": "2025-11-22T10:39:42.118Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:42.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:39:42.182Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "但不是",
+    "timestamp": "2025-11-22T10:39:42.276Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:42.328Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:42.328Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本身",
+    "timestamp": "2025-11-22T10:39:42.328Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n",
+    "timestamp": "2025-11-22T10:39:42.382Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "cloud",
+    "timestamp": "2025-11-22T10:39:42.382Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_",
+    "timestamp": "2025-11-22T10:39:42.438Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "services",
+    "timestamp": "2025-11-22T10:39:42.439Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:42.497Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " {\n",
+    "timestamp": "2025-11-22T10:39:42.498Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:42.550Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:42.599Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Browser",
+    "timestamp": "2025-11-22T10:39:42.652Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Stack",
+    "timestamp": "2025-11-22T10:39:42.707Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:42.707Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:42.708Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "按",
+    "timestamp": "2025-11-22T10:39:42.760Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "设备",
+    "timestamp": "2025-11-22T10:39:42.814Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "分钟",
+    "timestamp": "2025-11-22T10:39:42.814Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:42.869Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:42.869Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:42.927Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:42.983Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "S",
+    "timestamp": "2025-11-22T10:39:43.035Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "auce",
+    "timestamp": "2025-11-22T10:39:43.036Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Labs",
+    "timestamp": "2025-11-22T10:39:43.098Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:43.098Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:43.147Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "订阅",
+    "timestamp": "2025-11-22T10:39:43.148Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "制",
+    "timestamp": "2025-11-22T10:39:43.198Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",",
+    "timestamp": "2025-11-22T10:39:43.199Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \n",
+    "timestamp": "2025-11-22T10:39:43.255Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:43.306Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:43.366Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "AWS",
+    "timestamp": "2025-11-22T10:39:43.367Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Device",
+    "timestamp": "2025-11-22T10:39:43.417Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Farm",
+    "timestamp": "2025-11-22T10:39:43.417Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:43.474Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:43.474Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "按",
+    "timestamp": "2025-11-22T10:39:43.526Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "测试",
+    "timestamp": "2025-11-22T10:39:43.526Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:43.588Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:43.636Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:43.636Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:43.693Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Fire",
+    "timestamp": "2025-11-22T10:39:43.747Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "base",
+    "timestamp": "2025-11-22T10:39:43.747Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Test",
+    "timestamp": "2025-11-22T10:39:43.799Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Lab",
+    "timestamp": "2025-11-22T10:39:43.854Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:43.855Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:43.906Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "按",
+    "timestamp": "2025-11-22T10:39:43.906Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "测试",
+    "timestamp": "2025-11-22T10:39:43.963Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:44.020Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\"\n",
+    "timestamp": "2025-11-22T10:39:44.020Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "}\n\n",
+    "timestamp": "2025-11-22T10:39:44.072Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:44.072Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:44.129Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "但",
+    "timestamp": "2025-11-22T10:39:44.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "您",
+    "timestamp": "2025-11-22T10:39:44.235Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全可以",
+    "timestamp": "2025-11-22T10:39:44.236Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:44.290Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "自",
+    "timestamp": "2025-11-22T10:39:44.352Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "建",
+    "timestamp": "2025-11-22T10:39:44.407Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n",
+    "timestamp": "2025-11-22T10:39:44.407Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "self",
+    "timestamp": "2025-11-22T10:39:44.461Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_host",
+    "timestamp": "2025-11-22T10:39:44.514Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ed",
+    "timestamp": "2025-11-22T10:39:44.566Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:44.619Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " {\n",
+    "timestamp": "2025-11-22T10:39:44.620Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:44.675Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:44.675Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本地",
+    "timestamp": "2025-11-22T10:39:44.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "真",
+    "timestamp": "2025-11-22T10:39:44.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "机",
+    "timestamp": "2025-11-22T10:39:44.782Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:44.783Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:44.848Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "一次性",
+    "timestamp": "2025-11-22T10:39:44.898Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "设备",
+    "timestamp": "2025-11-22T10:39:44.898Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "成本",
+    "timestamp": "2025-11-22T10:39:44.964Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:45.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:45.024Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:45.077Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "安卓",
+    "timestamp": "2025-11-22T10:39:45.077Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "模拟",
+    "timestamp": "2025-11-22T10:39:45.133Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "器",
+    "timestamp": "2025-11-22T10:39:45.185Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:45.186Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:45.239Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:45.240Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:45.291Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",",
+    "timestamp": "2025-11-22T10:39:45.292Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \n",
+    "timestamp": "2025-11-22T10:39:45.346Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:45.347Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:45.403Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "旧",
+    "timestamp": "2025-11-22T10:39:45.455Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "手机",
+    "timestamp": "2025-11-22T10:39:45.455Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "回收",
+    "timestamp": "2025-11-22T10:39:45.513Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "利用",
+    "timestamp": "2025-11-22T10:39:45.566Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\":",
+    "timestamp": "2025-11-22T10:39:45.620Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:45.621Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "几乎",
+    "timestamp": "2025-11-22T10:39:45.673Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "零",
+    "timestamp": "2025-11-22T10:39:45.674Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "成本",
+    "timestamp": "2025-11-22T10:39:45.740Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\"\n",
+    "timestamp": "2025-11-22T10:39:45.741Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "}\n",
+    "timestamp": "2025-11-22T10:39:45.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:45.844Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:45.844Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:45.844Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:45.905Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".",
+    "timestamp": "2025-11-22T10:39:45.960Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:46.015Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:46.015Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "IDE",
+    "timestamp": "2025-11-22T10:39:46.066Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "插件",
+    "timestamp": "2025-11-22T10:39:46.127Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:46.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:46.181Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可选",
+    "timestamp": "2025-11-22T10:39:46.237Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:46.293Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:46.293Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " App",
+    "timestamp": "2025-11-22T10:39:46.344Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:46.403Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Desktop",
+    "timestamp": "2025-11-22T10:39:46.403Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:46.493Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:46.546Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:46.547Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:46.547Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:46.594Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "某些",
+    "timestamp": "2025-11-22T10:39:46.653Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "IDE",
+    "timestamp": "2025-11-22T10:39:46.705Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的商业",
+    "timestamp": "2025-11-22T10:39:46.706Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "插件",
+    "timestamp": "2025-11-22T10:39:46.759Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:46.759Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "可能",
+    "timestamp": "2025-11-22T10:39:46.834Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "收费",
+    "timestamp": "2025-11-22T10:39:46.886Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:46.939Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:46.939Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:46.940Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "但",
+    "timestamp": "2025-11-22T10:39:46.941Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "核心",
+    "timestamp": "2025-11-22T10:39:46.996Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "功能",
+    "timestamp": "2025-11-22T10:39:47.057Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:47.104Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:47.290Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:47.345Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:47.345Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:47.346Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:47.346Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "真实",
+    "timestamp": "2025-11-22T10:39:47.576Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "成本",
+    "timestamp": "2025-11-22T10:39:47.683Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "分析",
+    "timestamp": "2025-11-22T10:39:47.750Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:47.805Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:47.805Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:47.805Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "零",
+    "timestamp": "2025-11-22T10:39:47.859Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "成本",
+    "timestamp": "2025-11-22T10:39:47.859Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:47.860Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:47.860Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:47.914Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:47.915Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:47.915Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:47.916Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:47.968Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "硬件",
+    "timestamp": "2025-11-22T10:39:47.969Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:47.969Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "旧",
+    "timestamp": "2025-11-22T10:39:47.969Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "安卓",
+    "timestamp": "2025-11-22T10:39:48.022Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "手机",
+    "timestamp": "2025-11-22T10:39:48.022Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "或",
+    "timestamp": "2025-11-22T10:39:48.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "模拟",
+    "timestamp": "2025-11-22T10:39:48.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "器",
+    "timestamp": "2025-11-22T10:39:48.081Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:48.136Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:48.136Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:48.190Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:48.241Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:48.241Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:48.295Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:48.295Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "软件",
+    "timestamp": "2025-11-22T10:39:48.352Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:48.352Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:48.405Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:48.406Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " +",
+    "timestamp": "2025-11-22T10:39:48.459Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Python",
+    "timestamp": "2025-11-22T10:39:48.519Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:48.568Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:48.568Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:48.624Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:48.625Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "  \n",
+    "timestamp": "2025-11-22T10:39:48.677Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:48.678Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:48.731Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "部署",
+    "timestamp": "2025-11-22T10:39:48.731Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:48.786Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "D",
+    "timestamp": "2025-11-22T10:39:48.786Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ocker",
+    "timestamp": "2025-11-22T10:39:48.843Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "容器",
+    "timestamp": "2025-11-22T10:39:48.900Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:48.951Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:48.951Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:49.004Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:49.005Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:49.061Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:49.062Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:49.113Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "总计",
+    "timestamp": "2025-11-22T10:39:49.113Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:49.173Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:49.173Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:49.225Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:49.285Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "class",
+    "timestamp": "2025-11-22T10:39:49.336Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Zero",
+    "timestamp": "2025-11-22T10:39:49.656Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Cost",
+    "timestamp": "2025-11-22T10:39:49.709Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Autom",
+    "timestamp": "2025-11-22T10:39:49.709Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ation",
+    "timestamp": "2025-11-22T10:39:49.710Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":\n",
+    "timestamp": "2025-11-22T10:39:49.764Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:49.764Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " def",
+    "timestamp": "2025-11-22T10:39:49.764Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " __",
+    "timestamp": "2025-11-22T10:39:49.765Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "init",
+    "timestamp": "2025-11-22T10:39:49.819Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "__(",
+    "timestamp": "2025-11-22T10:39:49.819Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "self",
+    "timestamp": "2025-11-22T10:39:49.819Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "):\n",
+    "timestamp": "2025-11-22T10:39:49.820Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "       ",
+    "timestamp": "2025-11-22T10:39:49.874Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " self",
+    "timestamp": "2025-11-22T10:39:49.874Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".d",
+    "timestamp": "2025-11-22T10:39:49.874Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "river",
+    "timestamp": "2025-11-22T10:39:49.875Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:49.875Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " web",
+    "timestamp": "2025-11-22T10:39:49.927Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "driver",
+    "timestamp": "2025-11-22T10:39:49.983Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".Rem",
+    "timestamp": "2025-11-22T10:39:49.983Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ote",
+    "timestamp": "2025-11-22T10:39:50.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "(\n",
+    "timestamp": "2025-11-22T10:39:50.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "           ",
+    "timestamp": "2025-11-22T10:39:50.097Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:50.097Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "http",
+    "timestamp": "2025-11-22T10:39:50.146Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "://",
+    "timestamp": "2025-11-22T10:39:50.146Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "localhost",
+    "timestamp": "2025-11-22T10:39:50.302Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ":",
+    "timestamp": "2025-11-22T10:39:50.357Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "472",
+    "timestamp": "2025-11-22T10:39:50.358Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "3",
+    "timestamp": "2025-11-22T10:39:50.358Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',\n",
+    "timestamp": "2025-11-22T10:39:50.409Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "           ",
+    "timestamp": "2025-11-22T10:39:50.409Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " {\n",
+    "timestamp": "2025-11-22T10:39:50.409Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "               ",
+    "timestamp": "2025-11-22T10:39:50.467Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:50.467Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "platform",
+    "timestamp": "2025-11-22T10:39:50.523Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:50.570Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:50.625Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:50.625Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Android",
+    "timestamp": "2025-11-22T10:39:50.683Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',\n",
+    "timestamp": "2025-11-22T10:39:50.685Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "               ",
+    "timestamp": "2025-11-22T10:39:50.735Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:50.736Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "device",
+    "timestamp": "2025-11-22T10:39:50.789Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:50.790Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:50.843Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:50.843Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "free",
+    "timestamp": "2025-11-22T10:39:50.901Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_device",
+    "timestamp": "2025-11-22T10:39:50.953Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "',",
+    "timestamp": "2025-11-22T10:39:50.953Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:51.021Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " #",
+    "timestamp": "2025-11-22T10:39:51.071Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:51.210Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:51.259Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "！\n",
+    "timestamp": "2025-11-22T10:39:51.260Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "               ",
+    "timestamp": "2025-11-22T10:39:51.260Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:51.260Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "autom",
+    "timestamp": "2025-11-22T10:39:51.309Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ation",
+    "timestamp": "2025-11-22T10:39:51.309Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Name",
+    "timestamp": "2025-11-22T10:39:51.366Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "':",
+    "timestamp": "2025-11-22T10:39:51.366Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " '",
+    "timestamp": "2025-11-22T10:39:51.420Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Ui",
+    "timestamp": "2025-11-22T10:39:51.472Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Autom",
+    "timestamp": "2025-11-22T10:39:51.472Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ator",
+    "timestamp": "2025-11-22T10:39:51.472Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "2",
+    "timestamp": "2025-11-22T10:39:51.530Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "'",
+    "timestamp": "2025-11-22T10:39:51.581Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:51.640Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " #",
+    "timestamp": "2025-11-22T10:39:51.640Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:51.865Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:51.921Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "！\n",
+    "timestamp": "2025-11-22T10:39:51.921Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "           ",
+    "timestamp": "2025-11-22T10:39:51.922Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " }\n",
+    "timestamp": "2025-11-22T10:39:51.922Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "       ",
+    "timestamp": "2025-11-22T10:39:51.922Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " )\n",
+    "timestamp": "2025-11-22T10:39:51.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:51.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:51.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:51.971Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "低成本",
+    "timestamp": "2025-11-22T10:39:52.024Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "方案",
+    "timestamp": "2025-11-22T10:39:52.025Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:52.080Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "如果需要",
+    "timestamp": "2025-11-22T10:39:52.080Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:52.133Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:52.133Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:52.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:52.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:52.240Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:52.241Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "硬件",
+    "timestamp": "2025-11-22T10:39:52.294Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:52.347Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "二手",
+    "timestamp": "2025-11-22T10:39:52.401Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "安卓",
+    "timestamp": "2025-11-22T10:39:52.455Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "手机",
+    "timestamp": "2025-11-22T10:39:52.455Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:52.509Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:52.509Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "200",
+    "timestamp": "2025-11-22T10:39:52.563Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:52.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "500",
+    "timestamp": "2025-11-22T10:39:52.618Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:52.671Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:52.725Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:52.779Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:52.780Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "软件",
+    "timestamp": "2025-11-22T10:39:52.833Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:52.833Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "全部",
+    "timestamp": "2025-11-22T10:39:52.886Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "开源",
+    "timestamp": "2025-11-22T10:39:52.950Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:52.998Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:53.059Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:53.060Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:53.107Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:53.169Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:53.216Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:53.217Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:53.270Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "部署",
+    "timestamp": "2025-11-22T10:39:53.324Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:53.324Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "自有",
+    "timestamp": "2025-11-22T10:39:53.325Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务器",
+    "timestamp": "2025-11-22T10:39:53.385Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " -",
+    "timestamp": "2025-11-22T10:39:53.436Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:53.437Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "0",
+    "timestamp": "2025-11-22T10:39:53.489Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:53.540Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:53.540Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "已有",
+    "timestamp": "2025-11-22T10:39:53.594Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "基础设施",
+    "timestamp": "2025-11-22T10:39:53.649Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:53.702Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:53.702Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:53.759Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "总计",
+    "timestamp": "2025-11-22T10:39:53.760Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:53.824Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "200",
+    "timestamp": "2025-11-22T10:39:53.874Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:53.875Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "500",
+    "timestamp": "2025-11-22T10:39:53.930Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "元",
+    "timestamp": "2025-11-22T10:39:53.985Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "一次性",
+    "timestamp": "2025-11-22T10:39:53.985Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "投入",
+    "timestamp": "2025-11-22T10:39:54.039Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:54.039Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:54.093Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:54.093Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:54.155Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:54.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:54.208Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "学习",
+    "timestamp": "2025-11-22T10:39:54.209Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "资源",
+    "timestamp": "2025-11-22T10:39:54.271Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:54.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:54.323Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:54.379Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "官方",
+    "timestamp": "2025-11-22T10:39:54.431Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "资源",
+    "timestamp": "2025-11-22T10:39:54.431Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:54.487Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:54.487Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:54.539Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "官网",
+    "timestamp": "2025-11-22T10:39:54.540Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:54.593Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:54.593Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "app",
+    "timestamp": "2025-11-22T10:39:54.647Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:54.708Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": ".io",
+    "timestamp": "2025-11-22T10:39:54.762Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "（",
+    "timestamp": "2025-11-22T10:39:54.762Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:54.810Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "）\n",
+    "timestamp": "2025-11-22T10:39:54.811Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:54.863Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:54.864Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "文档",
+    "timestamp": "2025-11-22T10:39:54.928Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:54.980Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:54.980Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "完全",
+    "timestamp": "2025-11-22T10:39:54.981Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:55.033Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:55.033Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "-",
+    "timestamp": "2025-11-22T10:39:55.096Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:55.146Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "源码",
+    "timestamp": "2025-11-22T10:39:55.198Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:55.251Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：",
+    "timestamp": "2025-11-22T10:39:55.252Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Git",
+    "timestamp": "2025-11-22T10:39:55.306Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Hub",
+    "timestamp": "2025-11-22T10:39:55.306Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "开源",
+    "timestamp": "2025-11-22T10:39:55.360Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:55.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "###",
+    "timestamp": "2025-11-22T10:39:55.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:55.469Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "社区",
+    "timestamp": "2025-11-22T10:39:55.527Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "资源",
+    "timestamp": "2025-11-22T10:39:55.580Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:55.580Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```",
+    "timestamp": "2025-11-22T10:39:55.634Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "python",
+    "timestamp": "2025-11-22T10:39:55.635Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:55.687Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "#",
+    "timestamp": "2025-11-22T10:39:55.688Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:55.741Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:55.741Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的学习",
+    "timestamp": "2025-11-22T10:39:55.802Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "途径",
+    "timestamp": "2025-11-22T10:39:55.850Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n",
+    "timestamp": "2025-11-22T10:39:55.851Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "free",
+    "timestamp": "2025-11-22T10:39:55.915Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "_res",
+    "timestamp": "2025-11-22T10:39:55.969Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ources",
+    "timestamp": "2025-11-22T10:39:56.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " =",
+    "timestamp": "2025-11-22T10:39:56.023Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " [\n",
+    "timestamp": "2025-11-22T10:39:56.080Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:56.129Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:56.129Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:56.195Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:56.247Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "官方",
+    "timestamp": "2025-11-22T10:39:56.247Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "文档",
+    "timestamp": "2025-11-22T10:39:56.248Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:56.300Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:56.300Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:56.356Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Git",
+    "timestamp": "2025-11-22T10:39:56.412Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Hub",
+    "timestamp": "2025-11-22T10:39:56.681Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "示例",
+    "timestamp": "2025-11-22T10:39:56.732Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "项目",
+    "timestamp": "2025-11-22T10:39:56.732Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",",
+    "timestamp": "2025-11-22T10:39:56.732Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \n",
+    "timestamp": "2025-11-22T10:39:56.787Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:56.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:56.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "Stack",
+    "timestamp": "2025-11-22T10:39:56.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " Overflow",
+    "timestamp": "2025-11-22T10:39:56.842Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "问题",
+    "timestamp": "2025-11-22T10:39:56.842Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:56.896Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:56.950Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:56.950Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "YouTube",
+    "timestamp": "2025-11-22T10:39:57.134Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "教程",
+    "timestamp": "2025-11-22T10:39:57.186Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "视频",
+    "timestamp": "2025-11-22T10:39:57.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\",\n",
+    "timestamp": "2025-11-22T10:39:57.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "   ",
+    "timestamp": "2025-11-22T10:39:57.187Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " \"",
+    "timestamp": "2025-11-22T10:39:57.240Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "技术",
+    "timestamp": "2025-11-22T10:39:57.240Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "博客",
+    "timestamp": "2025-11-22T10:39:57.299Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "文章",
+    "timestamp": "2025-11-22T10:39:57.300Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\"\n",
+    "timestamp": "2025-11-22T10:39:57.300Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "]\n",
+    "timestamp": "2025-11-22T10:39:57.301Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "```\n\n",
+    "timestamp": "2025-11-22T10:39:57.301Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "---\n\n",
+    "timestamp": "2025-11-22T10:39:57.354Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "##",
+    "timestamp": "2025-11-22T10:39:57.355Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:57.355Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "总结",
+    "timestamp": "2025-11-22T10:39:57.355Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "\n\n",
+    "timestamp": "2025-11-22T10:39:57.407Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:57.407Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:57.465Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:39:57.465Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " ",
+    "timestamp": "2025-11-22T10:39:57.519Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "是完全",
+    "timestamp": "2025-11-22T10:39:57.519Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:57.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的开",
+    "timestamp": "2025-11-22T10:39:57.667Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "源",
+    "timestamp": "2025-11-22T10:39:57.667Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "工具",
+    "timestamp": "2025-11-22T10:39:57.718Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:57.718Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:39:57.899Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "您可以",
+    "timestamp": "2025-11-22T10:39:57.950Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "：\n\n",
+    "timestamp": "2025-11-22T10:39:58.509Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "✅",
+    "timestamp": "2025-11-22T10:39:58.565Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:58.565Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:58.566Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "下载",
+    "timestamp": "2025-11-22T10:39:58.566Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "和使用",
+    "timestamp": "2025-11-22T10:39:58.616Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:58.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "  \n",
+    "timestamp": "2025-11-22T10:39:58.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "✅",
+    "timestamp": "2025-11-22T10:39:58.617Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:58.671Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:58.672Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "部署",
+    "timestamp": "2025-11-22T10:39:58.672Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "到",
+    "timestamp": "2025-11-22T10:39:58.672Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "任意",
+    "timestamp": "2025-11-22T10:39:58.727Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "环境",
+    "timestamp": "2025-11-22T10:39:58.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:58.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "  \n",
+    "timestamp": "2025-11-22T10:39:58.728Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "✅",
+    "timestamp": "2025-11-22T10:39:58.787Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:58.787Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:58.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "用于",
+    "timestamp": "2025-11-22T10:39:58.788Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:58.840Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "项目",
+    "timestamp": "2025-11-22T10:39:58.841Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:58.841Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "  \n",
+    "timestamp": "2025-11-22T10:39:58.842Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "✅",
+    "timestamp": "2025-11-22T10:39:58.895Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:58.896Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:58.896Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "获取",
+    "timestamp": "2025-11-22T10:39:58.896Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "源码",
+    "timestamp": "2025-11-22T10:39:58.960Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "和",
+    "timestamp": "2025-11-22T10:39:58.960Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "修改",
+    "timestamp": "2025-11-22T10:39:58.961Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:59.007Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "  \n",
+    "timestamp": "2025-11-22T10:39:59.008Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "✅",
+    "timestamp": "2025-11-22T10:39:59.064Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": " **",
+    "timestamp": "2025-11-22T10:39:59.065Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "免费",
+    "timestamp": "2025-11-22T10:39:59.115Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "获得",
+    "timestamp": "2025-11-22T10:39:59.115Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "社区",
+    "timestamp": "2025-11-22T10:39:59.169Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "支持",
+    "timestamp": "2025-11-22T10:39:59.224Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**\n\n",
+    "timestamp": "2025-11-22T10:39:59.278Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "只有在",
+    "timestamp": "2025-11-22T10:39:59.279Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "使用",
+    "timestamp": "2025-11-22T10:39:59.332Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:59.386Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "云",
+    "timestamp": "2025-11-22T10:39:59.387Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "测试",
+    "timestamp": "2025-11-22T10:39:59.440Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "平台",
+    "timestamp": "2025-11-22T10:39:59.495Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:59.496Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "或",
+    "timestamp": "2025-11-22T10:39:59.550Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "购买",
+    "timestamp": "2025-11-22T10:39:59.603Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:59.659Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "商业",
+    "timestamp": "2025-11-22T10:39:59.659Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "支持",
+    "timestamp": "2025-11-22T10:39:59.712Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "服务",
+    "timestamp": "2025-11-22T10:39:59.713Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "**",
+    "timestamp": "2025-11-22T10:39:59.767Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "时才",
+    "timestamp": "2025-11-22T10:39:59.767Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "需要",
+    "timestamp": "2025-11-22T10:39:59.821Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "付费",
+    "timestamp": "2025-11-22T10:39:59.821Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:39:59.875Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "但这些",
+    "timestamp": "2025-11-22T10:39:59.875Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "都不是",
+    "timestamp": "2025-11-22T10:39:59.932Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:39:59.987Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:40:00.038Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "本身的",
+    "timestamp": "2025-11-22T10:40:00.039Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "费用",
+    "timestamp": "2025-11-22T10:40:00.093Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "。\n\n",
+    "timestamp": "2025-11-22T10:40:00.093Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "您可以",
+    "timestamp": "2025-11-22T10:40:00.145Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "放心",
+    "timestamp": "2025-11-22T10:40:00.199Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "使用",
+    "timestamp": "2025-11-22T10:40:00.199Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "App",
+    "timestamp": "2025-11-22T10:40:00.253Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "ium",
+    "timestamp": "2025-11-22T10:40:00.307Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "进行",
+    "timestamp": "2025-11-22T10:40:00.308Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "第三方",
+    "timestamp": "2025-11-22T10:40:00.361Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "AP",
+    "timestamp": "2025-11-22T10:40:00.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "K",
+    "timestamp": "2025-11-22T10:40:00.415Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "的",
+    "timestamp": "2025-11-22T10:40:00.471Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "自动化",
+    "timestamp": "2025-11-22T10:40:00.471Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "，",
+    "timestamp": "2025-11-22T10:40:00.525Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "不会",
+    "timestamp": "2025-11-22T10:40:00.526Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "产生",
+    "timestamp": "2025-11-22T10:40:00.580Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "任何",
+    "timestamp": "2025-11-22T10:40:00.580Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "许可",
+    "timestamp": "2025-11-22T10:40:00.636Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "费用",
+    "timestamp": "2025-11-22T10:40:00.686Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-990450-1763807959641",
+    "text": "！",
+    "timestamp": "2025-11-22T10:40:00.742Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-990450-1763807959641",
+    "timestamp": "2025-11-22T10:40:00.807Z"
+  }
+]

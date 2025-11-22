@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "lib": ["ES2020", "DOM"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "rootDir": ".",
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "downlevelIteration": true,
+    "declaration": false,
+    "sourceMap": false
+  },
+  "include": [
+    "*.ts",
+    "request_response_handler/*.ts",
+    "content-script.ts",
+    "inject.ts",
+    "popup.ts",
+    "service-worker.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "server",
+    "request_response_handler/*.js"
+  ]
+}

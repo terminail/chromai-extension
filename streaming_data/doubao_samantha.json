@@ -1,0 +1,70 @@
+[
+  {
+    "type": "STREAMING_STARTED",
+    "service": "doubao_samantha",
+    "url": "https://www.doubao.com/samantha/chat/completion?aid=497858&device_id=7572934182482757163&device_platform=web&fp=verify_mi8g6btv_FYe5jP3x_d3VN_4p3z_8DL3_Qawj44kKk9xB&language=zh&pc_version=2.46.0&pkg_type=release_version&real_aid=497858&region=CN&samantha_web=1&sys_region=CN&tea_uuid=7572934252993824292&use-olympus-account=1&version_code=20800&web_id=7572934252993824292&web_tab_id=a6d0f8cf-45fd-4223-a9fc-5604eb3c8b3b&msToken=-q6dMXeTz0HaIfvcsbGDYPM1_RnJJnGkbWq9QiuR3PkBAJXCaI1yoanZDiB9R6pbpfspsK3glAaM7nshBISDrHVTwuFiz1VZiUshbz7ufSK6h3tZiaqVezMG-g41yYAYNn9Xy-yYPfLtW6of-zWeMT8QcxsXPuSIcS_qqd-mVxQFercNryowNw%3D%3D&a_bogus=Dv0VgqUiOombOVMS8KQmCv%2FRWgO%2FNTSy0FTxRqAReFzJcqtcsO1oP7eUGxoxsewv1bkhhel7Bja4bVnb0b4kAIKkqmhfS8v6vGdA980o217mbGJgnpRuC4bEwJ-e0CGYO5deiVw1lUUN2gc3NqoqA2P9e%2Ftq5KmMTHPbd5UUexg-gavYnVxnCP2S",
+    "injectId": "inject-995080-1763704590781",
+    "question": "hello2",
+    "timestamp": "2025-11-21T05:56:30.823Z",
+    "source": "fetch"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": "Hello",
+    "timestamp": "2025-11-21T05:56:32.675Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": " there! 😊",
+    "timestamp": "2025-11-21T05:56:32.696Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": " Did you mean to say \"hello",
+    "timestamp": "2025-11-21T05:56:32.738Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": "\" (with a typo",
+    "timestamp": "2025-11-21T05:56:32.846Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": ") or is \"hello2\" a",
+    "timestamp": "2025-11-21T05:56:33.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": " special greeting? Either way",
+    "timestamp": "2025-11-21T05:56:33.054Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": ", nice to connect with you—",
+    "timestamp": "2025-11-21T05:56:33.175Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": "how can I",
+    "timestamp": "2025-11-21T05:56:33.358Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-995080-1763704590781",
+    "text": " help you today?",
+    "timestamp": "2025-11-21T05:56:33.393Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-995080-1763704590781",
+    "timestamp": "2025-11-21T05:56:38.033Z"
+  }
+]

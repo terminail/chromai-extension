@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+
+# Empty JavaScript files
+export-data.js
+generate-icons.js
+streaming-server.ts
+monitor/*.js
+server/*.js
+server/*.html
+*.cjs

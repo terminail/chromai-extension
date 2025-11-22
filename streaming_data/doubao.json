@@ -1,0 +1,169 @@
+[
+  {
+    "type": "STREAMING_STARTED",
+    "service": "doubao",
+    "url": "https://www.doubao.com/chat/completion?aid=497858&device_id=7572934182482757163&device_platform=web&fp=verify_mi8ogf91_CoosdIYW_o4aR_4iux_AqSm_SRmQdnrXazIf&language=zh&pc_version=2.46.2&pkg_type=release_version&real_aid=497858&region=CN&samantha_web=1&sys_region=CN&tea_uuid=7572934252993824292&use-olympus-account=1&version_code=20800&web_id=7572934252993824292&web_tab_id=3abbb454-835e-4260-bb7b-21c7a5f20d83&msToken=mWE6rWYr78Qh19Idw-DZOqgySBPQKVnQqZM-NghtiBZPD6JHtE4G5SXKxfvfXsmr_qlfmhD1D3JdxOhdN4w3pRP8ALB4pxx4oUecqvNnwRZ7wvFlLfKL2XgcCKP8OspS1k9Hjr6NYQ8V2hwL7a66h9MdC_9w8ZQOpYnm-fkcQoWqMPM07Iu1Ag%3D%3D&a_bogus=x7U5D7XExxRjcV%2FbYcduCVxRVzu%2FNTSy--ixbqoRyKKacZzcNQ12MKL4JNEne1hXyRshhHB7QjSQGdfY0u5zl1dkzmZvu046IUC59z8L%2FZq2GBvZn1fTCvGLFkkCAbbu0AaUxZvf6U4qXdB1DqriUrlrt%2FaNsmUBPqOykmJNCV-26TtGrxxESHE%3D",
+    "injectId": "inject-421163-1763796642473",
+    "question": "hello8",
+    "timestamp": "2025-11-22T07:30:42.490Z",
+    "source": "fetch"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "Hi",
+    "timestamp": "2025-11-22T07:30:44.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "!",
+    "timestamp": "2025-11-22T07:30:44.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": " ",
+    "timestamp": "2025-11-22T07:30:44.040Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "👋",
+    "timestamp": "2025-11-22T07:30:44.052Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": " ",
+    "timestamp": "2025-11-22T07:30:44.053Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "看起来",
+    "timestamp": "2025-11-22T07:30:44.069Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "是",
+    "timestamp": "2025-11-22T07:30:44.108Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "延续之前的对话~ ",
+    "timestamp": "2025-11-22T07:30:44.343Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "你当前是在推进哪",
+    "timestamp": "2025-11-22T07:30:44.482Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "项开发需求呀？比如",
+    "timestamp": "2025-11-22T07:30:44.717Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "：\n- VSCode ",
+    "timestamp": "2025-11-22T07:30:44.795Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "扩展（图标实现、功能",
+    "timestamp": "2025-11-22T07:30:44.966Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "编码、UI 交互优化",
+    "timestamp": "2025-11-22T07:30:45.174Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "）\n- 量化交易",
+    "timestamp": "2025-11-22T07:30:45.234Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "系统（vnpy 策略",
+    "timestamp": "2025-11-22T07:30:45.387Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "开发、数据对接、架构",
+    "timestamp": "2025-11-22T07:30:45.560Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "设计）\n- 本地",
+    "timestamp": "2025-11-22T07:30:45.603Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "知识库（模型训练、增量",
+    "timestamp": "2025-11-22T07:30:45.781Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "更新、低端服务器部署）",
+    "timestamp": "2025-11-22T07:30:45.944Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "\n\n可以具体说明当前进度",
+    "timestamp": "2025-11-22T07:30:46.061Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "或遇到的问题，我",
+    "timestamp": "2025-11-22T07:30:46.216Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "会给出可直接复用的",
+    "timestamp": "2025-11-22T07:30:46.379Z"
+  },
+  {
+    "type": "STREAMING_CHUNK",
+    "injectId": "inject-421163-1763796642473",
+    "text": "配置清单~",
+    "timestamp": "2025-11-22T07:30:46.597Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-421163-1763796642473",
+    "timestamp": "2025-11-22T07:30:46.652Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-421163-1763796642473",
+    "timestamp": "2025-11-22T07:30:46.795Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-421163-1763796642473",
+    "timestamp": "2025-11-22T07:30:49.199Z"
+  },
+  {
+    "type": "STREAMING_COMPLETED",
+    "injectId": "inject-421163-1763796642473",
+    "timestamp": "2025-11-22T07:30:49.267Z"
+  }
+]
